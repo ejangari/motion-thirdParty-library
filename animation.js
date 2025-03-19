@@ -1,3 +1,5 @@
+const popmotion = require("popmotion");
+
 const ball = document.querySelector(".ball");
 popmotion.animate({
   from: "0px",
